@@ -1,0 +1,19 @@
+
+.droplist{
+    width: 200px;
+    min-height:400px;
+    background-color: white;
+    display: none;
+    position: absolute;
+    right: -100px;
+    margin-top: 18px;
+    border-radius: 5px;
+
+}
+
+.active{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}

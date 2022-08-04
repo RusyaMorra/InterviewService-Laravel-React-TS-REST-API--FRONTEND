@@ -1,0 +1,11 @@
+﻿-React
+-Redux, redux thank, redux-saga
+-TypeScript
+-propvalidet
+-axios
+-uuid
+-ReactRoute
+-webpack- и все плагины для сборки типо bable, для сжатия итд
+-scss
+-тесты
+-CI/CD
