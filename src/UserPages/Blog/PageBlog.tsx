@@ -13,8 +13,8 @@ import PostService from "../../API/PostService";
 import {usePagination} from "../../hooks/usePagination";
 import {useFetching} from "../../hooks/useFetching";
 import {getPageCount} from "../../utils/pages";
-import {BlogPostsInterface,FilterInterface } from "../../@TS-TYPES/ComponentInterfaces";
-import {defaultType} from "../../@TS-TYPES/types";
+import {BlogPostsInterface,FilterInterface } from "../../@TS-TYPES/ComponentTypes";
+
 
 const styles = {
     div:{

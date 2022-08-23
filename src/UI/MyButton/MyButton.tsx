@@ -1,6 +1,6 @@
 import React from "react"
 import MybuttonCss from "./Mybutton.module.css"
-import {MyButtonInterface} from "../../@TS-TYPES/ComponentInterfaces";
+import {MyButtonInterface} from "../../@TS-TYPES/ComponentTypes";
 
 
 

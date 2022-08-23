@@ -1,7 +1,7 @@
 import React,{ FC, useState } from "react";
 import MyButton from "../../../UI/MyButton/MyButton"
 import MyInput from "../../../UI/MyInput/MyInput"
-import {BlogPostsInterface,callbackCreatePost} from "../../../@TS-TYPES/ComponentInterfaces";
+import {BlogPostsInterface,callbackCreatePost} from "../../../@TS-TYPES/ComponentTypes";
 
 
 

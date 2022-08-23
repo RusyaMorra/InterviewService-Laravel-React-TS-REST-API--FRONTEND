@@ -3,7 +3,7 @@ import {useParams} from 'react-router-dom';
 import {useFetching} from "../../hooks/useFetching";
 import PostService from "../../API/PostService";
 import Loader from "../../UI/Loader/Loader";
-import {PostInterface,CommentsInterface} from "../../@TS-TYPES/ComponentInterfaces";
+import {PostInterface,CommentsInterface} from "../../@TS-TYPES/ComponentTypes";
 
 
 

@@ -25,7 +25,7 @@ const Navbar = () => {
                           <div>InterVcorp</div>
                     </div>
                     <div className="navbar__links">
-                        <Link className="nav-menu__item"  to="/mainpage">Главная</Link>
+                        <Link className="nav-menu__item"  to="/">Главная</Link>
                         <Link className="nav-menu__item"  to="/InterviewService">Сервис Cобеседований</Link>
                         <Link className="nav-menu__item"  to="/posts">блог</Link>
                         <Link className="nav-menu__item"  to="/about">Магазин</Link>

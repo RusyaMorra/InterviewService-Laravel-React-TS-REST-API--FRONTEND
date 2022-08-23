@@ -8,7 +8,7 @@ import MainPage from "../UserPages/MainPage/MainPage"
 import InterviewService from "../UserPages/InterviewService/InterviewService"
 
 export const privateRoutes = [
-    {path: '/mainpage', component:MainPage, exact: true},
+    {path: '/', component:MainPage, exact: true},
     {path: '/InterviewService', component:InterviewService, exact: true},
     {path: '/about', component: About, exact: true},
     {path: '/posts', component: PageBlog, exact: true},
